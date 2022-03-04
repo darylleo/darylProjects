@@ -1,0 +1,5 @@
+com\daryl\processor\Test.class
+com\daryl\processor\AnJuKePageProcessor.class
+com\daryl\CrawlerApplication.class
+com\daryl\config\AnJuKePageTask.class
+com\daryl\paperline\AnJuKePagePipeline.class

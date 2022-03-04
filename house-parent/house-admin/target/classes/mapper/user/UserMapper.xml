@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.daryl.mapper.UserMapper">
+    <resultMap id="BaseResultMap" type="com.daryl.domain.entity.user.UserEntity">
+        <id column="id" property="id"/>
+        <result column="create_time" property="createTime"/>
+        <result column="modify_time" property="modifyTime"/>
+        <result column="create_by" property="createBy"/>
+        <result column="modify_by" property="modifyBy"/>
+        <result column="username" property="username"/>
+        <result column="true_name" property="trueName"/>
+        <result column="del_tag" property="delTag"/>
+    </resultMap>
+    <sql id="Base_Column">
+        id,create_time,modify_time,create_by,modify_by,username,true_name,img,gender,
+        address,personal_signature,collections,expired,locked,enabled,is_expired
+    </sql>
+
+    <select id="queryByUsername" resultType="com.daryl.domain.entity.user.UserEntity">
+        SELECT <include refid="Base_Column"></include> FROM t_sys_user WHERE del_tag = 0 AND username = #{username}
+    </select>
+    <select id="queryAllUsers" resultType="com.daryl.domain.entity.user.UserEntity">
+        SELECT <include refid="Base_Column"></include>
+        FROM t_sys_user
+        WHERE del_tag = 0
+        <if test="param.">
+
+        </if>
+    </select>
+</mapper>

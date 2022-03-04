@@ -1,0 +1,63 @@
+server:
+  port: 17777
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+  aop:
+    auto: true
+  application:
+    name: house
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/house?useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: 123456
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 100
+      auto-commit: true
+      idle-timeout: 30000
+      pool-name: DatabookHikariCP
+      max-lifetime: 1800000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1
+  jpa:
+    hibernate:
+      database: mysql
+      ddl-auto: update
+    show: true
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    open-in-view: false
+    show-sql: true
+  redis:
+    host: 127.0.0.1
+    database: 6
+    #password: 'Xydata123'
+    timeout: 5000
+    lettuce:
+      pool:
+        max-active: 8
+        max-idle: 8
+        max-wait: -1
+        min-idle: 0
+
+
+mapper:
+  identity: MYSQL
+  b-e-f-o-r-e: true
+  #u-u-i-d: true
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+    jdbc-type-for-null: 'NULL'
+  mapper-locations: classpath:mapper/*/*Mapper.xml
+
+logging:
+  level:
+    org.springframework.boot.autoconfigure: ERROR
+    com.daryl.mapper: debug

@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39dd4900-fdc2-44e7-a773-933b2906e753" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ad10e471-85ec-4ac7-99fd-559e61fcbc7b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ad10e471-85ec-4ac7-99fd-559e61fcbc7b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ad10e471-85ec-4ac7-99fd-559e61fcbc7b/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/ad10e471-85ec-4ac7-99fd-559e61fcbc7b/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_58.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_10_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_2_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_base_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_core_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__us_codecraft_webmagic_core_0_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__us_codecraft_webmagic_extension_0_7_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__us_codecraft_xsoup_0_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/house-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/AdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/aop/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/api/UserApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/config/DataRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/config/MyAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/config/MyAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/domain/dto/RoleMenuDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/domain/dto/UserRoleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/domain/entity/user/MenuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/domain/entity/user/RoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/domain/entity/user/RoleMenuEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/domain/entity/user/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/domain/entity/user/UserRoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/filters/JwtAuthenticationTokenFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/mapper/MenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/mapper/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/mapper/RoleMenuMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/mapper/UserRoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/service/impl/UserDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/java/com/daryl/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/resources/mapper/user/RoleMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/resources/mapper/user/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/main/resources/mapper/user/UserRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/src/test/java/usertest/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/AdminApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/aop/ServiceAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/api/UserApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/config/DataRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/config/MyAccessDeniedHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/config/MyAuthenticationEntryPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/domain/dto/RoleMenuDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/domain/dto/UserRoleDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/domain/entity/user/MenuEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/domain/entity/user/RoleEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/domain/entity/user/RoleMenuEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/domain/entity/user/UserEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/domain/entity/user/UserRoleEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/filters/JwtAuthenticationTokenFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/mapper/MenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/mapper/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/mapper/RoleMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/mapper/UserRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/service/impl/UserDetailServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/com/daryl/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/mapper/user/RoleMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/mapper/user/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/classes/mapper/user/UserRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/house-admin-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-admin/target/test-classes/usertest/MyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/house-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/config/MyGenId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/config/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/customtemplate/CustomProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/customtemplate/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/customtemplate/annotation/Error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/customtemplate/aop/MyExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/customtemplate/mapper/CustomMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/customtemplate/mapper/MyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/constants/ExceptionMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/constants/GlobalField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/constants/SystemMsgConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/dtos/LoginUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/dtos/QueryParamDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/dtos/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/dtos/UserInfoDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/dtos/ValidOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/entity/MyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/domain/enums/HttpCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/DarylUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/EntityUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/FileIoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/IdGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/IdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/ListTransUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/LoginUserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/RedisCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/RedisClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/SqlUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/ValidateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/WebUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/src/main/java/com/daryl/utils/user/UserInfoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/config/MyGenId.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/config/handler/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/customtemplate/CustomProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/customtemplate/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/customtemplate/annotation/Error.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/customtemplate/aop/MyExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/customtemplate/mapper/CustomMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/customtemplate/mapper/MyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/constants/ExceptionMsg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/constants/GlobalField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/constants/SystemMsgConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/LoginUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/QueryParamDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/ResponseResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/UserInfoDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/ValidOptions$Create.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/ValidOptions$Prime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/ValidOptions$Select.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/ValidOptions$Update.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/dtos/ValidOptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/entity/MyEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/domain/enums/HttpCodeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/DarylUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/EntityUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/FileIoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/IdGenerator$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/IdGenerator$SingletonHolder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/IdGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/IdWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/JwtUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/ListTransUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/LoginUserUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/RedisCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/RedisClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/SqlUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/ValidateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/WebUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/classes/com/daryl/utils/user/UserInfoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/house-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-common/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/house-crawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/CrawlerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/config/AnJuKePageTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/paperline/AnJuKePagePipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/processor/AnJuKePageProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/processor/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/proxy/CrawlerProxyProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/proxy/callback/ProxyProviderCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl/proxy/pojo/CrawlerProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/main/resources/crawler.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/test/java/CrawlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/src/test/java/HouseProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/classes/com/daryl/CrawlerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/classes/com/daryl/config/AnJuKePageTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/classes/com/daryl/paperline/AnJuKePagePipeline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/classes/com/daryl/processor/AnJuKePageProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/classes/com/daryl/processor/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/classes/crawler.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/house-crawler-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/test-classes/CrawlerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/test-classes/HouseProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-crawler/target/test-classes/META-INF/house-crawler.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/house-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/HouseApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/api/HouseApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/config/DataRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/domain/dto/HouseDetailInfoDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/domain/entity/SecondHouseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/mapper/SecondHouseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/service/SecondHouseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/java/com/daryl/service/impl/SecondHouseServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/src/main/resources/mapper/house/SecondHouseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/META-INF/house-web.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/HouseApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/api/HouseApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/config/DataRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/domain/dto/HouseDetailInfoDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/domain/entity/SecondHouseEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/mapper/SecondHouseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/service/SecondHouseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/com/daryl/service/impl/SecondHouseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/classes/mapper/house/SecondHouseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/house-web-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/house-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/house-parent/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Environment\apache-maven-3.8.1\repository" />
+        <option name="mavenHome" value="F:/Environment/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="F:\Environment\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="24lqyC5l4XZ2fyOacnDEPkBBVqX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/house-parent/house-crawler/src/main/java/com/daryl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\second-house\house-parent\house-common\src\main\java\com\daryl\utils" />
+      <recent name="E:\IdeaProject\second-house\house-parent\house-crawler\src\main\java\com\daryl\crawler\mapper" />
+      <recent name="E:\IdeaProject\second-house\house-parent\house-crawler\src\main\java\com\daryl\crawler\pojos" />
+      <recent name="E:\IdeaProject\second-house\house-parent\house-crawler\src\main\java\com\daryl\crawler\service" />
+      <recent name="E:\IdeaProject\second-house\house-parent\house-crawler\src\main\java\com\daryl\crawler\core\parse" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.daryl.config" />
+      <recent name="com.daryl.crawler.process.original" />
+      <recent name="com.daryl.crawler.delayed" />
+      <recent name="com.daryl.crawler.helper" />
+      <recent name="com.daryl.crawler.factory" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProject\second-house\house-parent\house-common\src\main\java\com\daryl\domain\dtos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminApplication">
+    <configuration name="IdWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.daryl.utils.IdWorker" />
+      <module name="house-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrawlerTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="house-crawler" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CrawlerTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.bindRoleMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="house-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="usertest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="usertest" />
+      <option name="MAIN_CLASS_NAME" value="usertest.MyTest" />
+      <option name="METHOD_NAME" value="bindRoleMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="house-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.daryl.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="house-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.daryl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.daryl.HouseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="JUnit.MyTest.bindRoleMenu" />
+        <item itemvalue="Spring Boot.HouseApplication" />
+        <item itemvalue="Application.IdWorker" />
+        <item itemvalue="JUnit.CrawlerTest.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39dd4900-fdc2-44e7-a773-933b2906e753" name="Default Changelist" comment="" />
+      <created>1644215772411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644215772411</updated>
+      <workItem from="1644215774796" duration="5337000" />
+      <workItem from="1644238577422" duration="15000" />
+      <workItem from="1644283021284" duration="9502000" />
+      <workItem from="1644302987170" duration="11166000" />
+      <workItem from="1644322865175" duration="11242000" />
+      <workItem from="1644472161537" duration="11847000" />
+      <workItem from="1644485674323" duration="551000" />
+      <workItem from="1644486421240" duration="495000" />
+      <workItem from="1644487182553" duration="87000" />
+      <workItem from="1644541934351" duration="25945000" />
+      <workItem from="1644631179214" duration="14382000" />
+      <workItem from="1644754432871" duration="4858000" />
+      <workItem from="1644903628698" duration="3525000" />
+      <workItem from="1644908261048" duration="11525000" />
+      <workItem from="1644973753932" duration="12988000" />
+      <workItem from="1645063077431" duration="15905000" />
+      <workItem from="1645148409306" duration="12822000" />
+      <workItem from="1645169709384" duration="7751000" />
+      <workItem from="1645578725189" duration="5539000" />
+      <workItem from="1645594288464" duration="148000" />
+      <workItem from="1645594450215" duration="80000" />
+      <workItem from="1646100564032" duration="14000" />
+      <workItem from="1646273275072" duration="2192000" />
+      <workItem from="1646285633057" duration="1473000" />
+      <workItem from="1646291493619" duration="311000" />
+      <workItem from="1646291979636" duration="1247000" />
+      <workItem from="1646379609471" duration="877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="roleMenuDto.menuList" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

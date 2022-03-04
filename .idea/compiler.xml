@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="house-common" />
+        <module name="house-admin" />
+        <module name="house-crawler" />
+        <module name="house-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="house-admin" target="1.8" />
+      <module name="house-common" target="1.8" />
+      <module name="house-crawler" target="1.8" />
+      <module name="house-parent" target="1.8" />
+      <module name="house-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="house-admin" options="-parameters" />
+      <module name="house-common" options="-parameters" />
+      <module name="house-crawler" options="-parameters" />
+      <module name="house-web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.daryl.mapper.UserRoleMapper">
+    <sql id="AllColumn">
+        id,create_by,create_time,modify_by,modify_time,role_id,user_id
+    </sql>
+
+    <update id="removeUserRoleByUserId">
+        UPDATE t_sys_user_role
+        SET
+            modify_time  = SYSDATE(),
+            modify_by = #{username},
+            del_tag    = 1
+        WHERE
+              del_tag = 0
+          AND user_id = #{userId}
+    </update>
+    <update id="removeUserRoleByRoleId">
+         UPDATE t_sys_user_role
+        SET
+            modify_time  = SYSDATE(),
+            modify_by = #{username},
+            del_tag    = 1
+        WHERE
+              del_tag = 0
+          AND role_id = #{roleId}
+    </update>
+    <select id="queryListRoleByUserId" resultType="com.daryl.domain.entity.user.RoleEntity">
+        SELECT
+        tsr.id,tsr.role_code,tsr.role_name
+        FROM t_sys_user_role tsur
+        LEFT JOIN t_sys_role tsr ON tsur.role_id = tsr.id AND tsr.del_tag = 0 AND tsr.status = 0
+        WHERE tsur.del_tag = 0 AND tsur.user_id = #{userId}
+        ORDER BY tsr.role_code DESC
+    </select>
+</mapper>

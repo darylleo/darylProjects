@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.daryl.mapper.RoleMenuMapper">
+    <update id="removeRoleMenuByRoleId">
+        UPDATE t_sys_role_menu
+        SET
+            modify_time  = SYSDATE(),
+            modify_by = #{username},
+            del_tag    = 1
+        WHERE
+              del_tag = 0
+          AND role_id = #{roleId}
+    </update>
+    <update id="removeRoleMenuByMenuId">
+        UPDATE t_sys_role_menu
+        SET
+            modify_time  = SYSDATE(),
+            modify_by = #{username},
+            del_tag    = 1
+        WHERE
+              del_tag = 0
+          AND menu_id = #{menuId}
+    </update>
+
+    <select id="queryMenuByUserId" resultType="com.daryl.domain.entity.user.MenuEntity">
+        SELECT
+			tsm.id,
+			tsm.create_by,
+			tsm.create_time,
+			tsm.description,
+			tsm.menu_code,
+			tsm.modify_by,
+			tsm.modify_time
+		FROM t_sys_role_menu tsrm
+        LEFT JOIN  t_sys_role tsr ON tsr.id = tsrm.role_id AND tsr.del_tag = 0 AND tsr.status = 0
+        LEFT JOIN t_sys_user_role tsur ON tsur.role_id = tsr.id AND tsur.del_tag = 0
+        LEFT JOIN t_sys_menu tsm ON tsm.id = tsrm.menu_id AND tsm.del_tag = 0 AND tsm.status = 0
+        WHERE tsur.user_id = #{userId} AND tsrm.del_tag = 0
+    </select>
+</mapper>
